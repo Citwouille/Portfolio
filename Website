@@ -1,8 +1,28 @@
 <!DOCTYPE html>
-<html>
-  <head>Portfolio</head>
-  <title>Homepage</title>
-  <body>
-None
-  </body>
-</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votre Nom - Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Ajoutez le lien vers votre fichier CSS ici -->
+</head>
+<body>
+
+    <header>
+        <h1>Votre Nom</h1>
+        <p>Full Stack Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>À propos de moi</h2>
+        <p>Bienvenue sur mon portfolio ! Je suis un développeur passionné par...</p>
+    </section>
+
+    <section id="projects">
+        <h2>Mes Projets</h2>
+        <!-- Ajoutez ici des sections pour présenter vos projets -->
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-moi</h2>
+        <!-- Aj
