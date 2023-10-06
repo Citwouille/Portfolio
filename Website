@@ -9,18 +9,24 @@
 <body>
 
     <header>
-        <h1>Votre Nom</h1>
+        <h1>Citwouille</h1>
         <p>Full Stack Developer</p>
     </header>
 
     <section id="about">
-        <h2>À propos de moi</h2>
-        <p>Bienvenue sur mon portfolio ! Je suis un développeur passionné par...</p>
+        <h2>About me</h2>
+        <p>Welcome on my brand new portfolio! As i am starting it, it'll be empty for a while but don't fret if you found it at that point :D</p>
     </section>
 
     <section id="projects">
-        <h2>Mes Projets</h2>
+        <h2>My Projectss</h2>
         <!-- Ajoutez ici des sections pour présenter vos projets -->
+        <ul>
+            <h3>Codecademy Full-Stack Developper Learning</h3>
+            <h3>First Project</h3>
+            <h3>Second Project</h3>
+            <h3>Third Projec</h3>
+        </ul>
     </section>
 
     <section id="contact">
