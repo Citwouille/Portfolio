@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Votre Nom - Portfolio</title>
+    <title>Citwouille-Portfolio</title>
     <link rel="stylesheet" href="styles.css"> <!-- Ajoutez le lien vers votre fichier CSS ici -->
 </head>
 <body>
@@ -29,6 +29,7 @@
         </ul>
     </section>
 
-    <section id="contact">
+    <footer>
         <h2>Contactez-moi</h2>
-        <!-- Aj
+        <h3>No Coordinates for now</h3>
+    </footer>
