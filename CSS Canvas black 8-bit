@@ -1,0 +1,21 @@
+<style>
+    /* Canvas Styles */
+    canvas {
+        border: 2px solid #000; /* Black border */
+        background-color: #000; /* Black background */
+        image-rendering: pixelated; /* Maintain pixelated look when scaling */
+    }
+
+    /* Define 8-bit pixel font for text */
+    @font-face {
+        font-family: 'PixelFont';
+        src: url('path-to-your-pixel-font.woff') format('woff');
+    }
+
+    /* Example: Apply 8-bit font to text elements */
+    .text {
+        font-family: 'PixelFont', monospace;
+        font-size: 16px;
+        color: #fff; /* White text color */
+    }
+</style>
